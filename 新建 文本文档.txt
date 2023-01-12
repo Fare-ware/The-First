@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+prinntf("hh");
+return 0;
+}
